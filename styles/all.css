@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+    overflow-x: hidden;
     font-family: 'Roboto', sans-serif;
     font-style: italic;
 	line-height: 1.5;
